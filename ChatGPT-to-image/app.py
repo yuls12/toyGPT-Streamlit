@@ -6,7 +6,7 @@ openai.api_key = st.secrets["api_key"]
 st.title("ChatGPT로 이미지 생성하기")
 
 with st.form("form"):
-    user_input = st.text_input("Prompt only EN")
+    user_input = st.text_input("Prompt")
     size = st.selectbox("Size", ["1024x1024", "512x512", "256x256"])
     submit = st.form_submit_button("Submit")
 
