@@ -19,4 +19,17 @@
 
 <br/>
 
-## 2. Continue,,
+## 2. [ChatGPT-Translator](https://github.com/yuls12/toy-GPT/tree/main/ChatGPT-Translator)
+
+    ChatGPT와 Streamlit을 이용한 번역 서비스 웹사이트 제작
+
+<details>
+<summary>image</summary>
+<div markdown="1">
+
+<img src="https://github.com/yuls12/toy-GPT/assets/69426184/26eb1dd1-e4c0-48ad-8a4b-dc76fe847a13" width=40% >
+
+</div>
+</details>
+
+<br/>
