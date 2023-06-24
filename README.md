@@ -12,7 +12,7 @@
 <summary>image</summary>
 <div markdown="1">
 
-<img src="https://github.com/yuls12/toy-GPT/assets/69426184/966e4f76-2812-4bcb-8879-13eaab316e55" width=40% >
+<img src="https://github.com/yuls12/toy-GPT/assets/69426184/966e4f76-2812-4bcb-8879-13eaab316e55" width=60% >
 
 </div>
 </details>
@@ -27,7 +27,7 @@
 <summary>image</summary>
 <div markdown="1">
 
-<img src="https://github.com/yuls12/toy-GPT/assets/69426184/26eb1dd1-e4c0-48ad-8a4b-dc76fe847a13" width=40% >
+<img src="https://github.com/yuls12/toy-GPT/assets/69426184/26eb1dd1-e4c0-48ad-8a4b-dc76fe847a13" width=60% >
 
 </div>
 </details>
