@@ -1,3 +1,5 @@
 
 .DS_Store
 ChatGPT-Translator/.streamlit/secrets.toml
+GPT-Chatbot/.streamlit/secrets.toml
+GPT-Chatbot/__pycache__/back.cpython-311.pyc
