@@ -34,7 +34,7 @@
 
 <br/>
 
-## 3. 1. [ChatGPT-summarize](https://github.com/yuls12/toy-GPT/tree/main/GPT-summarize)
+## 3. [ChatGPT-summarize](https://github.com/yuls12/toy-GPT/tree/main/GPT-summarize)
 
     ChatGPT와 FastAPI, Streamlit을 이용한 요약 웹사이트 제작
 
