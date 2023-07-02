@@ -5,3 +5,4 @@ GPT-Chatbot/.streamlit/secrets.toml
 GPT-Chatbot/__pycache__/back.cpython-311.pyc
 GPT-summarize/.streamlit/secrets.toml
 GPT-summarize/__pycache__/back.cpython-311.pyc
+GPT-Chatbot/__pycache__/backend.cpython-311.pyc
