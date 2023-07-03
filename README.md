@@ -48,3 +48,18 @@
 </details>
 
 <br/>
+
+## 4. [ChatGPT-Chatbot](https://github.com/yuls12/toy-GPT/tree/main/GPT-Chatbot)
+
+    ChatGPT와 FastAPI, Streamlit을 이용한 Chatbot 어플리케이션 제작
+
+<details>
+<summary>image</summary>
+<div markdown="1">
+
+<img src="https://github.com/yuls12/toy-GPT/assets/69426184/19312d85-81cc-4f11-b5d8-4226d6c54e9c" width=60% >
+
+</div>
+</details>
+
+<br/>
